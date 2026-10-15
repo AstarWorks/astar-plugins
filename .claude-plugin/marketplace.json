@@ -1,0 +1,9 @@
+{
+  "name": "astar",
+  "owner": { "name": "AstarWorks", "url": "https://astarworks.com" },
+  "metadata": { "description": "Astar を Claude から使うための Plugin" },
+  "plugins": [
+    { "name": "astar", "source": "./plugins/astar", "description": "Astar（Production）につなぐ", "version": "0.1.0", "category": "productivity" },
+    { "name": "astar-staging", "source": "./plugins/astar-staging", "description": "Astar（Staging、社内の確認用）につなぐ", "version": "0.1.0", "category": "productivity" }
+  ]
+}

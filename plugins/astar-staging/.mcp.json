@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "astar": {
+      "type": "http",
+      "url": "https://api-staging.astarworks.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "astar",
+  "version": "0.1.0",
+  "description": "Astar: Astar の書類・テーブル・予定・メールを Claude から扱う接続設定と使い方",
+  "author": { "name": "AstarWorks", "url": "https://astarworks.com" },
+  "homepage": "https://astarworks.com"
+}

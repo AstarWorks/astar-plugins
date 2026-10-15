@@ -1,0 +1,8 @@
+{
+  "name": "astar",
+  "interface": { "displayName": "Astar" },
+  "plugins": [
+    { "name": "astar", "source": { "source": "local", "path": "./plugins/astar" }, "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" }, "category": "Productivity" },
+    { "name": "astar-staging", "source": { "source": "local", "path": "./plugins/astar-staging" }, "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" }, "category": "Productivity" }
+  ]
+}

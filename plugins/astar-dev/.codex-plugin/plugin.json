@@ -1,0 +1,16 @@
+{
+  "name": "astar-dev",
+  "version": "0.1.0",
+  "description": "Astar (dev): Astar の書類・テーブル・予定・メールを Codex から扱う接続設定と使い方",
+  "author": { "name": "AstarWorks", "url": "https://astarworks.com" },
+  "homepage": "https://astarworks.com",
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Astar (dev)",
+    "shortDescription": "事務所の記録を Codex から扱う",
+    "developerName": "AstarWorks",
+    "category": "Productivity",
+    "websiteURL": "https://astarworks.com"
+  }
+}

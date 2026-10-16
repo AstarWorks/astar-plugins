@@ -6,6 +6,7 @@ Claude Code と Codex に Astar をつなぐ Plugin です。接続設定（MCP�
 |---|---|
 | `astar` | Production（`https://api.astarworks.com/mcp`） |
 | `astar-staging` | Staging（社内の確認用） |
+| `astar-dev` | dev（開発用、`https://api-dev.astarworks.com/mcp`） |
 
 ## 入れ方
 
